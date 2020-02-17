@@ -17,7 +17,7 @@
 
  ## Live Link
   - Click to get my Github link
-  -  https://github.com/gumey
+  -  https://gumey.github.io/katelo/
  ## Contact Details
   - Email: gumatokatelosarboba@gmail.com
   - Phone-No:0723148763
